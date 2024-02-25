@@ -22,4 +22,8 @@ public class Class3Test {
 	public void methodNew4() {
 		System.out.println("methodNew4 is Exicute");
 	}
+	@Test
+	public void methodNew9() {
+		System.out.println("hii brajesh methodNew 9 is Exicute");
+	}
 }
