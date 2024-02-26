@@ -26,4 +26,9 @@ public class Class4Test {
 	public void methodeNew10() {
 		System.out.println("methodeNew 10 is Exicute");
 	}
+	
+	@Test
+	public void methodeNew11() {
+		System.out.println("methodeNew 11 is Exicute");
+	}
 }
